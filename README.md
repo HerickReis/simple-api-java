@@ -1,7 +1,7 @@
 # Simple API Java
 
 Aplicação API 
-Projeto de fork par aula de DevOps da Fiap
+Projeto de fork par aula de DevOps da Fiap, edicao arquivos e painel Azure
 ## Pré-requisitos
 
 - Java 21
