@@ -1,12 +1,13 @@
 # Simple API Java
 
 Aplicação API 
-
+Projeto de fork par aula de DevOps da Fiap
 ## Pré-requisitos
 
 - Java 21
 - Git
 - Docker
+
 
 ## Build e execução
 
